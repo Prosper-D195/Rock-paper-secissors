@@ -2,15 +2,18 @@
 
 ## Description :
 
-** Un jeu de Pierre-Feuille-Ciseaux
-** Choix entre Pierre, Feuille et Ciseaux
-** Affichage du résultat du jeu en console
+* Un jeu de Pierre-Feuille-Ciseaux
+
+* Choix entre Pierre, Feuille et Ciseaux
+
+* Affichage du résultat du jeu en console
 
 ## Technologies utilisées 
 
-** HTML (pour l'affichage en console)
-** JavaScript
+* HTML (pour l'affichage en console)
+
+* JavaScript
 
 ## Prochaine étapes 
 
-** Création d'une interface utilisateur graphique (IUG)
+* Création d'une interface utilisateur graphique (IUG)
