@@ -1,12 +1,31 @@
 <!DOCTYPE html>
 <html lang="fr">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pierre-feuille-ciseaux</title>
-    </head>
-    <body>
-        <script src="script.js"></script>
-    
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+  <title>Pierre, Papier, Ciseaux</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Pierre, Papier, Ciseaux</h1>
+    <div>
+      <button class="bouton" id="pierre"><span class="main">✊</span> Pierre</button>
+      <button class="bouton" id="papier"><span class="main">✋</span> Papier</button>
+      <button class="bouton" id="ciseaux"><span class="main">✌️</span> Ciseaux</button>
+    </div>
+    <div>
+      <label class="label">Vous : <span id="choix-joueur"></span></label>
+      <label class="label">Ordinateur : <span id="choix-ordinateur"></span></label>
+    </div>
+    <div class="score">
+      <span id="score-joueur">0</span> - <span id="score-ordinateur">0</span>
+    </div>
+    <div>
+      <label class="label" id="resultat"></label>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
 </html>
