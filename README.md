@@ -1,19 +1,16 @@
 # Rock-paper-secissors
+Un jeu classique de Pierre-Feuille-Ciseaux implémenté avec HTML, CSS et JavaScript. 
 
 ## Description :
+Ce jeu permet à un joueur de jouer contre l'ordinateur. Le jeu se joue dans la console du navigateur.
 
-* Un jeu de Pierre-Feuille-Ciseaux
+* Jeu de Pierre-Feuille-Ciseaux contre l'ordinateur
 
-* Choix entre Pierre, Feuille et Ciseaux
+* Interface d'utilisateur graphique simple
 
-* Affichage du résultat du jeu en console
 
 ## Technologies utilisées 
 
 * HTML (pour l'affichage en console)
-
+* CSS 
 * JavaScript
-
-## Prochaine étapes 
-
-* Création d'une interface utilisateur graphique (IUG)
